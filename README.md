@@ -7,11 +7,9 @@
 
 
 
-# Ethical Open License (EOL) 1.0
+Welcome to the official repository for the **Ethical Open License (EOL) 1.0**. This license is designed to empower developers by granting freedom to use, modify, and distribute software — while ensuring that such freedoms are exercised within ethical boundaries.
 
-Welcome to the official repository for the **Ethical Open License (EOL) 1.0**. This license is designed to empower developers by granting freedom to use, modify, and distribute software—while ensuring that such freedoms are exercised within ethical boundaries.
-
-The entire LICENSE-File can be found [HERE](./LICENSE)**
+The entire LICENSE-File can be found **[HERE](./LICENSE)**
 
 ---
 
@@ -46,7 +44,7 @@ Enforcement of the Ethical Open License is overseen by an **Independent Ethics R
 ## How the License Works
 
 1. **Freedom to Use:** You are free to use, modify, and distribute software under the terms of this license.
-2. **Ethical Limitations:** The software must not be deployed for unethical purposes—such as facilitating mass surveillance, autonomous weapon systems, or discriminatory practices.
+2. **Ethical Limitations:** The software must not be deployed for unethical purposes — such as facilitating mass surveillance, autonomous weapon systems, or discriminatory practices.
 3. **Enforcement Process:** Should a violation occur, a complaint can be filed and reviewed by the IERB. The process includes:
    - **Initial Assessment:** Determining the actionability of the complaint within 7 days.
    - **Formal Review:** A detailed investigation and opportunity for response by the accused party.
